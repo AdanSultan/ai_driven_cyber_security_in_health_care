@@ -88,13 +88,7 @@ Graphs, confusion matrices, and comparison charts are generated during execution
 
 ---
 
-## Repository Structure
 
-ai_driven_cyber_security_in_health_care/
-│
-├── ai_driven_cyber_security_in_health_care.ipynb
-├── README.md
-└── sample_data / datasets (loaded via Colab)
 
 
 
