@@ -120,25 +120,5 @@ This project is intended for academic, research, and educational purposes. See L
 
 ---
 
-## About
-No description, website, or topics provided.
 
----
-
-## Resources
-- Readme
-- Activity
-
-## Repository Stats
-- Stars: 0
-- Watchers: 0
-- Forks: 0
-
-## Releases
-No releases published
-
-## Packages
-No packages published
-
-## Languages
 - Jupyter Notebook: 100%
